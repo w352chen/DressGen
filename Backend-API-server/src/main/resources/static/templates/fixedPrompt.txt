@@ -1,0 +1,28 @@
+
+<p style="color:green;">Prompt: <b>${dressGenInfo}</b>
+High-quality image;
+Sharp details;
+Accurate colors;
+Clear representation of the dress;
+Evident blouson style;
+Clean background;
+Focus on the dress;
+High-resolution;
+Smooth lines;
+Visually pleasing composition;
+Well-lit setting;
+Highlighting texture and pleats;
+Simple backdrop or enhancing location</p>
+<p style="color:red;">Negative prompt: 
+No blurriness, pixelation, or distortion;
+
+No visual artifacts;
+No compression artifacts, noise, or excessive graininess;
+No unintended shades or discoloration;
+
+Not overly loose or ill-fitting;
+No lighting issues;
+No overexposure, underexposure, or harsh shadows;
+
+No distractions or clutter;</p>
+
